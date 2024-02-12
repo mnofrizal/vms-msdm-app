@@ -152,8 +152,9 @@ const Header = () => {
                   </span>
                 </div>
                 <p className="text-[17px] 2xl:text-[20px] mt-[20px]">
-                  Shortlink monitoring visitor <b>bidang SDM dan Humas</b> ada
-                  disini biar nyarinya gampang ya gaess
+                  Shortlink spreadsheet monitoring{" "}
+                  <b>Visitor Management System</b> ada disini biar nyarinya
+                  gampang ya gaess
                 </p>
                 <div className="pt-[50px] relative text-gray-600">
                   <input
