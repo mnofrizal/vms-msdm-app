@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import React, { useEffect, useState } from "react";
 import BidangTable from "./bidangTable";
-import BidangChart from "./bidangChart";
+// import BidangChart from "./bidangChart";
 import Fnumber from "@/utils/fnumber";
 import CountUp from "react-countup";
 
@@ -120,9 +120,7 @@ const BidangDetail = (data) => {
       <BidangTable data={listPC}></BidangTable>
       {/* chart data */}
       <div className="border border-neutral-200 w-1/3 container my-[120px]"></div>
-      <section className="flex flex-col lg:flex-row w-full ">
-        <BidangChart data={listPC}></BidangChart>
-      </section>
+
       {/* barchart
   <div className="border border-neutral-200 w-1/3 container my-[120px]"></div>
   <ProgressChart data={bidang}></ProgressChart> */}
