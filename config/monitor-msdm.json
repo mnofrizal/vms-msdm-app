@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sublime-scion-396122",
+  "private_key_id": "592a2323fdcd7165dc2ec69bbe42c81747c081d7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCpdTWC8NExivI5\n6UkEnVoNTaJK85GfafthR9ik8OhQu+6xtKWc8Dx9d36p+gnF0jBmkb41udrOHJoX\nD55jfwdIyUIaQ9jPaEvXIKVoWQHrqT3ykVLRYNW+Ll/WyerfMTJbkQbZkNFzq7aG\n9KiTVe16ky4j+BJSEaomd8Axrb6sINZDBa4ycHLsu01U/JiLUV86XPvnK2pzBKg5\n5tR1ozdaKI6WX0fOGEmOuLXqRcq/GZ7a6OJ54U3KRe/YVSHeUHYDxdehp6HWBAxZ\nPBTceSp5ZAFj/8lOPfYSfPYknVl0xJDoDaKLp6z+WM3gOVYTxRaSuVuKFPA9jDHD\netphsQNBAgMBAAECggEAHYWjdHPy5gAwcgFf7LNjIGUxjIBBkvW6Szjil922g3Yy\nP/haT+yUhUE/qmo6sKGNOBlU+3QtF/Jor/LTI79aLAaQAxZl28BuUgTIfFThXkaG\nWc+Sj5KgujjHDprv1cFy5fvupxGxQ8cbDgjqo3x5WnzwsWiC/JRCQeBj9eOwj7kC\nOG1A30Q+S5PkIa/0IlbQ9Ei0bLY2wWQjR3HJw/KOuEnI8bjTF2VZ29GOjbl1SrtF\nKQcaSzOMB+VYET/NgBh3mFWJf1pnC5TUcCTt+3xY008WD3t1F1GeMxwYwXbaTPk4\nqFRuSRfrv10pISIV5QJEiRpAQ7fF0PWjm7Oodw5uyQKBgQDQblcO4mkkHaiiDQFb\nWQozdqPH5J1o9UTXDh7u7pjpsZkwE564rg9/9M3nFTU4+5L1OOF0eyedrHnJSsdG\nZrjKs5PqWs0cq+tEn63qrhV8WCKI6UbryRUD8j02V6rDHHFpLSYP6YLW4xRIznzl\neU8RNWLzaKOK53BgzNcsCIKOBQKBgQDQIdjY0ArzMp8GO65houdHI6PXf/TPZhMI\nDrtkS2zDvBP6LGOO1wTvvJ3hwtjIpdxWpLmV4F6yBgWkBdafE5ehm+7BUkp5XvhT\nBTWNIVJDQ7Vtb2YVKigdpDSWEofus6MEt6mkM0OL5Tu96bg/EliooZrxFUz+UIbS\niVmVsN0pDQKBgQC7+MbKxaXMzHKostHmcAajIvvR6nuLjKboy/NZyBRfratZkFg0\ndcXEwCJxpM669SczwHiTc/3mVQYAY1AUTc+Z/xoG4JzanrEu0lMmspjt6w46Kyeq\nvU4WoQBTYfy+uYgOMomBEDbPVTuV7aL10NFd06fJnTTgsJjIs/PZ4lLbgQKBgCGr\neBMLBNp28/bkLL+qxNNjVpwEHSx4DNge2f3NndjEUk8EY062RhwqXTgqdztuaYiy\nuTsfwvH1u2/faeruFneUbDlmAJpF3NJBY3pjS5WKHI2JmfAOk9LHv6IPeWIKOXMH\n6y+fA2xcNx/v8VhytVkCW7hog74YdNcWVSG8LOr5AoGBALMamnBNHXLx1H5puxFy\nQDmqwNJHEDO1iPNO+F1l9TL2rsiKmDppfl/psdTEp6dRQdzQw0ITqHXyDx5CCuF6\nTLg0VWjioICJ4BN/oxEBDhjajQi0VLGH3ZnMlioh5LfXmepzAYMZ2gfoUGl6aUxJ\n43zJ6ZoMjEsMJrMQfId2dkA8\n-----END PRIVATE KEY-----\n",
+  "client_email": "monitor-msdm@sublime-scion-396122.iam.gserviceaccount.com",
+  "client_id": "117347415572420057149",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/monitor-msdm%40sublime-scion-396122.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

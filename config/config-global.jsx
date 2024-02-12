@@ -1,0 +1,4 @@
+export const SHEET_API_URL =
+  "https://script.googleusercontent.com/macros/echo?user_content_key=fVosa1Nli_LPJH2t6jQ-6D84XgHAPguRzFbJfyoB0vlrxe-BHtArxseFLVSddtqo-Ttaf8YqVvD9lNLYJXZl55SOcT9XpltDm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnGpxfDOlLTdaTmnrWO-0YhmhgiguK323LjK4P39K8DK7iZjbvUmFG3DaH9VuUOCQX2mijUw0JlHmfp4w5ubW_33g9J0A03Wo9g&lib=Mg6MNJ60kQ8gq2IWFBQzAsLLoayAtuwAq";
+
+export const WS_URL = "https://ws.msdm.app";
